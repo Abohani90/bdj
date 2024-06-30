@@ -1,14 +1,14 @@
 <?php 
 
-// قناتي » @F_Fdbot //
+// قناتي » @broken_2311 //
 
-// معرفي » @vfxfv //
+// معرفي » @M_A_171 //
 
 //====================//
 
 ob_start();
 
-$token = "753297556:AAEd_MeO9TS8cDB1vpivXh7ufk2cCxsFnXU"; // توكن بوتك
+$token = "7009941896:AAF4ou1DH2j_GGjO5Dqc_6cz3nZNSYs4d_w"; // توكن بوتك
 
 define('API_KEY',$token);
 
@@ -84,9 +84,9 @@ bot('sendmessage',[
 
 - لصنع بوت 🤖 قم بالضغط فوق صنع بوت واتبع التعليمات 📝
 
-📡 CH - @TTTTTTIF
+📡 CH - @broken_2311
 
-👨‍💻 DEV - @VFXFV
+👨‍💻 DEV - @M_A_171
 
 ",
 
@@ -100,11 +100,11 @@ bot('sendmessage',[
 
 [
 
-['text'=>'المطور ♻','url'=>'t.me/VFXFV']
+['text'=>'المطور ♻','url'=>'t.me/M_A_171']
 
 ],
 
-[['text'=>'قناتنا 📢','url'=>'https://t.me/TTTTTTIF'] ,
+[['text'=>'قناتنا 📢','url'=>'https://t.me/broken_2311'] ,
 
 ['text'=>'شارك البوت 🔁','switch_inline_query'=>'']
 
@@ -300,9 +300,9 @@ bot('editMessageText',[
 
 - لصنع بوت 🤖 قم بالضغط فوق صنع بوت واتبع التعليمات 📝
 
-📡 CH - @TTTTTTIF
+📡 CH - @broken_2311
 
-👨‍💻 DEV - @VFXFV
+👨‍💻 DEV - @M_A_171
 
 ",
 
@@ -316,11 +316,11 @@ bot('editMessageText',[
 
 [
 
-['text'=>'المطور ♻','url'=>'t.me/VFXFV']
+['text'=>'المطور ♻','url'=>'t.me/M_A_171']
 
 ],
 
-[['text'=>'قناتنا 📢','url'=>'https://t.me/TTTTTTIF'] ,
+[['text'=>'قناتنا 📢','url'=>'https://t.me/broken_2311'] ,
 
 ['text'=>'شارك البوت 🔁','switch_inline_query'=>'']
 
@@ -366,9 +366,9 @@ bot('editMessageText',[
 
 - لصنع بوت 🤖 قم بالضغط فوق صنع بوت واتبع التعليمات 📝
 
-📡 CH - @TTTTTTIF
+📡 CH - @broken_2311
 
-👨‍💻 DEV - @VFXFV
+👨‍💻 DEV - @M_A_171
 
 ",
 
@@ -382,11 +382,11 @@ bot('editMessageText',[
 
 [
 
-['text'=>'المطور ♻','url'=>'t.me/VFXFV']
+['text'=>'المطور ♻','url'=>'t.me/M_A_2311']
 
 ],
 
-[['text'=>'قناتنا 📢','url'=>'https://t.me/TTTTTTIF'] ,
+[['text'=>'قناتنا 📢','url'=>'https://t.me/M_A_171'] ,
 
 ['text'=>'شارك البوت 🔁','switch_inline_query'=>'']
 
@@ -592,9 +592,9 @@ bot('editMessageText',[
 
 'inline_keyboard'=>[
 
-[['text'=>'المطور 🕴🏻','url'=>'https://telegram.me/TTTTTTIF']],
+[['text'=>'المطور 🕴🏻','url'=>'https://telegram.me/M_A_171']],
 
-[['text'=>'بوت التواصل 💎','url'=>'https://telegram.me/TTTTTTIF']],
+[['text'=>'بوت التواصل 💎','url'=>'https://telegram.me/soszhbot']],
 
 [['text'=>'الصفحة الرئيسية 🏠️' , 'callback_data'=>"home"]]
 
@@ -620,13 +620,13 @@ bot('editMessageText',[
 
 [
 
-['text'=>'phpfiles', 'url'=>"https://telegram.me/TTTTTTIF"]
+['text'=>'phpfiles', 'url'=>"https://telegram.me/broken_2311"]
 
 ],
 
 [
 
-['text'=>'مطور البـوت.!‹', 'url'=>"https://telegram.me/TTTTTTIF"]
+['text'=>'مطور البـوت.!‹', 'url'=>"https://telegram.me/M_A_171"]
 
 ],
 
